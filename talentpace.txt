@@ -1,0 +1,17 @@
+My name is Madhu
+ym eamn si uadhm
+
+String s="my name is madhu";
+String s1=s.split(" ");
+String s2=s.tocharArray();
+int i=0;
+int j=s2.length()-1;
+while(s2.length()>0)
+{
+s[i]=s[j];
+i++;
+j--;
+}
+
+
+

@@ -1,0 +1,5 @@
+                                    java method
+*java method isblock of code and it will run when it was called.
+* we can pass the data as a parameters.methods are used to perform certain actions.
+uses:
+once we write the code and we can use many times.

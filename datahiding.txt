@@ -1,0 +1,13 @@
+Datahiding 
+Datahiding is a process of hiding internal data.We cant acces the internal ddata directly.Afte validation outside person can access the data.
+By declaring datamembers as a private we can access the data hiding
+ex:
+public class bank
+{
+private double bal;
+public double get bal()
+{
+//validation
+return balance;
+}]
+};

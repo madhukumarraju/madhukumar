@@ -1,0 +1,19 @@
+Abstraction
+Abstraction is a process of hiding the data and show the only essential data only.
+Abstraction can be achieved by using abstract class and interfaces.
+without effecting we can able to perform thechanges n the internal implementstion.
+                                      Encaplusation
+ 1)wrapping the data and the code into a single unit is known as the encapluszton.
+to achieve encaplusation we can provide all datamembers as a private and we provide public methods to access that private datamembers/
+public methods whic are used to read the data members ids known as getter method.
+public method whic are used to accesss or update the private datamembers is known as the setter method.
+                                     overloading
+*creating multiple methods in a class with same name with different arguments
+*argument should be different with type or length.
+* we dont want to remember all method nameswhich are doing the same function
+* we cant overload by return type.
+
+
+yes we can overload the two static method which have different parameters.
+
+                                        overriding
